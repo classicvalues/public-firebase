@@ -6,7 +6,7 @@
     "@primer/octicons-react": "17.3.0",
     "@testing-library/jest-dom": "5.11.6",
     "@testing-library/react": "11.2.2",
-    "firebase": "8.10.1",
+    "firebase": "9.9.1",
     "firebase-admin": "11.0.0",
     "@testing-library/user-event": "14.3.0",
     "bootstrap": "5.2.0",
