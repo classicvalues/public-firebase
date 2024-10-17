@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "@primer/octicons-react": "17.10.0",
-    "@testing-library/jest-dom": "5.16.5",
-    "@testing-library/react": "13.4.0",
+    "@testing-library/jest-dom": "6.6.2",
+    "@testing-library/react": "16.0.1",
     "firebase": "9.15.0",
     "firebase-admin": "11.0.0",
     "@testing-library/user-event": "14.4.3",
